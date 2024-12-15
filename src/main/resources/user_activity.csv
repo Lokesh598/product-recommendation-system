@@ -1,0 +1,5 @@
+user_id,product_id,action
+1,101,view
+1,102,add_to_cart
+2,101,purchase
+2,103,view
